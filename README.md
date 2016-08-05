@@ -1,6 +1,6 @@
 # SassDoc Test
 
-Testing out SassDoc.
+Testing out <a href="http://sassdoc.com/">SassDoc</a>.
 
 ## Installation
 
