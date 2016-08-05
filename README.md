@@ -11,5 +11,5 @@ npm install
 
 ## Getting started
 
-* Run `sassdoc app/assets`
-* Open `./sassdoc/index.html` in your browser.
+1. Run `sassdoc app/assets`
+2. Open "sassdoc/index.html" in your browser.
