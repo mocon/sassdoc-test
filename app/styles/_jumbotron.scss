@@ -1,0 +1,13 @@
+/// The jumbotron has a lot of padding.
+/// @name usm-jumbrotron
+/// @example
+/// <div class="usm-jumbotron">
+///     ...
+/// </div>
+///
+/// @author Myles O'Connor
+
+.usm-jumbotron {
+    text-align: center;
+    padding: ($unit * 10);
+}

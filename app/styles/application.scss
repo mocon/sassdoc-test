@@ -1,0 +1,28 @@
+/// These are the variables.
+/// @name Color Palette
+/// @example
+/// <html class="docs">
+///     Some HTML
+/// </html>
+///
+/// @author Myles O'Connor
+
+$primary: orange;
+$secondary: red;
+$trans-dark-80: rgba(0,0,0,0.8);
+$unit: 1rem;
+
+// Imports
+@import '_header';
+@import '_jumbotron';
+@import '_example';
+
+// Base styles
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/// All headers should use the proper Montserrat font-family.
+h1, h2, h3, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+}

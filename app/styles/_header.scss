@@ -1,0 +1,11 @@
+/// This is the basic header section.
+.usm-header {
+    background-color: $trans-dark-80;
+    color: white;
+    padding: ($unit * 3) 0;
+}
+
+/// The logo within the header section.
+.usm-header__logo {
+    width: 200px;
+}
